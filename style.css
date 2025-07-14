@@ -78,3 +78,10 @@ p{
     margin-bottom: 10px;
     color: white;
 }
+footer{
+    background-color:#304878;
+    text-align: center;
+    font-family:sans-serif;
+    padding: 20px;
+    width: 100vw;
+}
